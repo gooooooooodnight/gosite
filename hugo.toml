@@ -1,0 +1,36 @@
+baseURL = 'https://localhost:1313/'
+languageCode = 'en-us'
+title = 'Welcome to my channel'
+theme = 'hyde'
+[menu]
+  
+
+  [[menu.main]]
+    name = "About"
+    url = "/posts/about/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Educations"
+    url = "/educations/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Explore the World"
+    url = "/explore-the-world/"
+    weight = 5
+
+  [[menu.main]]
+    name = "Interests"
+    url = "/posts/interests/"
+    weight = 6
+
+  [[menu.main]]
+    name = "Jottings"
+    url = "/jottings/"
+    weight = 7
