@@ -13,7 +13,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          submodules: true # 初始化并更新子模块
+          submodules: recursive # 初始化并更新子模块
 
       # 安装 Hugo
       - name: Setup Hugo
