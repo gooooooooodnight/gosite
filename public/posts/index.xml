@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Welcome to my channel</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://gooooooooodnight.github.io/posts/</link>
     <description>Recent content in Posts on Welcome to my channel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 29 Nov 2024 19:58:05 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gooooooooodnight.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>http://localhost:1313/posts/about/</link>
+      <link>https://gooooooooodnight.github.io/posts/about/</link>
       <pubDate>Thu, 28 Nov 2024 16:55:59 +0800</pubDate>
-      <guid>http://localhost:1313/posts/about/</guid>
+      <guid>https://gooooooooodnight.github.io/posts/about/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Name:&lt;/strong&gt; Yu Keyang&lt;br&gt;&#xA;&lt;strong&gt;Hidden identity:&lt;/strong&gt; A Disney fugitive Muster&lt;br&gt;&#xA;&lt;strong&gt;Age:&lt;/strong&gt; nineteen&lt;br&gt;&#xA;&lt;strong&gt;MBTI:&lt;/strong&gt; ISFJ&lt;br&gt;&#xA;&lt;strong&gt;Hometown:&lt;/strong&gt; Shijiazhuang, Hebei&lt;br&gt;&#xA;&lt;strong&gt;Life motto:&lt;/strong&gt;&lt;br&gt;&#xA;Life is not so full of meanings.&lt;br&gt;&#xA;The world is in front of you, pointing to wherever you want to go.&lt;br&gt;&#xA;I am myself, completely and absolutely in charge of me.&lt;/p&gt;</description>
     </item>
     <item>
       <title>interests</title>
-      <link>http://localhost:1313/posts/interests/</link>
+      <link>https://gooooooooodnight.github.io/posts/interests/</link>
       <pubDate>Fri, 29 Nov 2024 19:58:05 +0800</pubDate>
-      <guid>http://localhost:1313/posts/interests/</guid>
+      <guid>https://gooooooooodnight.github.io/posts/interests/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Sports&lt;/strong&gt;: ████████ 80%&lt;br&gt;&#xA;&lt;strong&gt;Cooking&lt;/strong&gt;: ███████ 70%&lt;br&gt;&#xA;&lt;strong&gt;Mahjong&lt;/strong&gt;: █████ 40%&lt;br&gt;&#xA;&lt;strong&gt;Calligraphy&lt;/strong&gt;: ██████ 60%&lt;br&gt;&#xA;&lt;strong&gt;Travel&lt;/strong&gt;: █████ 50%&lt;/p&gt;</description>
     </item>
   </channel>
