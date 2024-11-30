@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome to my channel</title>
-    <link>https://gooooooooodnight.github.io/gosite/</link>
+    <link>http://localhost:1313/gosite/</link>
     <description>Recent content on Welcome to my channel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 30 Nov 2024 00:00:34 +0800</lastBuildDate>
-    <atom:link href="https://gooooooooodnight.github.io/gosite/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/gosite/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>https://gooooooooodnight.github.io/gosite/posts/about/</link>
+      <link>http://localhost:1313/gosite/posts/about/</link>
       <pubDate>Thu, 28 Nov 2024 16:55:59 +0800</pubDate>
-      <guid>https://gooooooooodnight.github.io/gosite/posts/about/</guid>
+      <guid>http://localhost:1313/gosite/posts/about/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Name:&lt;/strong&gt; Yu Keyang&lt;br&gt;&#xA;&lt;strong&gt;Hidden identity:&lt;/strong&gt; A Disney fugitive Muster&lt;br&gt;&#xA;&lt;strong&gt;Age:&lt;/strong&gt; nineteen&lt;br&gt;&#xA;&lt;strong&gt;MBTI:&lt;/strong&gt; ISFJ&lt;br&gt;&#xA;&lt;strong&gt;Hometown:&lt;/strong&gt; Shijiazhuang, Hebei&lt;br&gt;&#xA;&lt;strong&gt;Life motto:&lt;/strong&gt;&lt;br&gt;&#xA;Life is not so full of meanings.&lt;br&gt;&#xA;The world is in front of you, pointing to wherever you want to go.&lt;br&gt;&#xA;I am myself, completely and absolutely in charge of me.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Educations</title>
-      <link>https://gooooooooodnight.github.io/gosite/educations/</link>
+      <link>http://localhost:1313/gosite/educations/</link>
       <pubDate>Thu, 28 Nov 2024 16:55:06 +0800</pubDate>
-      <guid>https://gooooooooodnight.github.io/gosite/educations/</guid>
+      <guid>http://localhost:1313/gosite/educations/</guid>
       <description>&lt;p&gt;Macau University of Science and Technology（MUST） MBA&#xA;2023.9-2027.6&lt;/p&gt;</description>
     </item>
     <item>
       <title>interests</title>
-      <link>https://gooooooooodnight.github.io/gosite/posts/interests/</link>
+      <link>http://localhost:1313/gosite/posts/interests/</link>
       <pubDate>Fri, 29 Nov 2024 19:58:05 +0800</pubDate>
-      <guid>https://gooooooooodnight.github.io/gosite/posts/interests/</guid>
+      <guid>http://localhost:1313/gosite/posts/interests/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Sports&lt;/strong&gt;: ████████ 80%&lt;br&gt;&#xA;&lt;strong&gt;Cooking&lt;/strong&gt;: ███████ 70%&lt;br&gt;&#xA;&lt;strong&gt;Mahjong&lt;/strong&gt;: █████ 40%&lt;br&gt;&#xA;&lt;strong&gt;Calligraphy&lt;/strong&gt;: ██████ 60%&lt;br&gt;&#xA;&lt;strong&gt;Travel&lt;/strong&gt;: █████ 50%&lt;/p&gt;</description>
     </item>
     <item>
       <title>Explore the World</title>
-      <link>https://gooooooooodnight.github.io/gosite/explore-the-world/</link>
+      <link>http://localhost:1313/gosite/explore-the-world/</link>
       <pubDate>Fri, 29 Nov 2024 20:16:46 +0800</pubDate>
-      <guid>https://gooooooooodnight.github.io/gosite/explore-the-world/</guid>
+      <guid>http://localhost:1313/gosite/explore-the-world/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;This year is my nineteenth year exploring the world, and I am very grateful to my parents for giving me the opportunity to see this world. Perhaps my definition of this world is not perfect, but I believe that I see the beautiful side of it. It was when I was fourteen years old that I saw the glass window of Notre Dame Cathedral before it was burned down, when I slowly sat on a Venetian cruise ship in the light rain, and when I saw the hem of my skirt blown up by the free wind countless times It was the first crappy Chinese meal made for us by the host family&amp;rsquo;s grandmother in Canada during our sophomore year of junior high school. It was me who bounced down the stairs every morning with the sound of &amp;ldquo;girls, breakfast&amp;rdquo; I have seen the rising sun and the scavenger resting by the trash can at night….&lt;/li&gt;&#xA;&lt;li&gt;So, Dear player, congratulations on successfully passing the 19th level. Please continue to explore the main storyline, unlock more storylines, and trigger special Easter eggs!!!!&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Jottings</title>
-      <link>https://gooooooooodnight.github.io/gosite/jottings/</link>
+      <link>http://localhost:1313/gosite/jottings/</link>
       <pubDate>Fri, 29 Nov 2024 23:56:20 +0800</pubDate>
-      <guid>https://gooooooooodnight.github.io/gosite/jottings/</guid>
+      <guid>http://localhost:1313/gosite/jottings/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;The Macao I introduced to you must not be objective, because it was my countless escapes back to the dormitory with tired body. It was a 25B that could never be crowded, a clothes that could never be dried, a tasteless meal, a sweet Stir-fried tomato and scrambled eggs, a cold and crazy typhoon, a never better eczema on my body, a fiery early sun on the Black Sand Beach in the morning, a pink and purple sky outside the school, and a strange weather without autumn.&lt;/li&gt;&#xA;&lt;li&gt;So, this is not Macau.&lt;/li&gt;&#xA;&lt;li&gt;This is my 19th year old. Just like I was drenched in rain in Macau, so I would like to introduce to you that Macau is a rainy city with a long and deep rainy season.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>https://gooooooooodnight.github.io/gosite/contact/</link>
+      <link>http://localhost:1313/gosite/contact/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:34 +0800</pubDate>
-      <guid>https://gooooooooodnight.github.io/gosite/contact/</guid>
+      <guid>http://localhost:1313/gosite/contact/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;📧 &lt;strong&gt;Email&lt;/strong&gt;: &lt;a href=&#34;mailto:1791806419@qq.com&#34;&gt;1791806419@qq.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;☎️ &lt;strong&gt;Phone&lt;/strong&gt;: +853 68914668&lt;/li&gt;&#xA;&lt;li&gt;📫 &lt;strong&gt;Postcode&lt;/strong&gt;: P25&lt;/li&gt;&#xA;&lt;li&gt;📱 &lt;strong&gt;WeChat&lt;/strong&gt;:  y15032664383&lt;/li&gt;&#xA;&lt;li&gt;💬 &lt;strong&gt;QQ&lt;/strong&gt;: 1791806419&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>

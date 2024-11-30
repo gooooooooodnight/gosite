@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gooooooooodnight.github.io/gosite/posts/about/</loc>
+    <loc>http://localhost:1313/gosite/posts/about/</loc>
     <lastmod>2024-11-28T16:55:59+08:00</lastmod>
   </url><url>
-    <loc>https://gooooooooodnight.github.io/gosite/educations/</loc>
+    <loc>http://localhost:1313/gosite/educations/</loc>
     <lastmod>2024-11-28T16:55:06+08:00</lastmod>
   </url><url>
-    <loc>https://gooooooooodnight.github.io/gosite/posts/interests/</loc>
+    <loc>http://localhost:1313/gosite/posts/interests/</loc>
     <lastmod>2024-11-29T19:58:05+08:00</lastmod>
   </url><url>
-    <loc>https://gooooooooodnight.github.io/gosite/explore-the-world/</loc>
+    <loc>http://localhost:1313/gosite/explore-the-world/</loc>
     <lastmod>2024-11-29T20:16:46+08:00</lastmod>
   </url><url>
-    <loc>https://gooooooooodnight.github.io/gosite/jottings/</loc>
+    <loc>http://localhost:1313/gosite/jottings/</loc>
     <lastmod>2024-11-29T23:56:20+08:00</lastmod>
   </url><url>
-    <loc>https://gooooooooodnight.github.io/gosite/contact/</loc>
+    <loc>http://localhost:1313/gosite/contact/</loc>
     <lastmod>2024-11-30T00:00:34+08:00</lastmod>
   </url><url>
-    <loc>https://gooooooooodnight.github.io/gosite/</loc>
+    <loc>http://localhost:1313/gosite/</loc>
     <lastmod>2024-11-30T00:00:34+08:00</lastmod>
   </url><url>
-    <loc>https://gooooooooodnight.github.io/gosite/posts/</loc>
+    <loc>http://localhost:1313/gosite/posts/</loc>
     <lastmod>2024-11-29T19:58:05+08:00</lastmod>
   </url><url>
-    <loc>https://gooooooooodnight.github.io/gosite/categories/</loc>
+    <loc>http://localhost:1313/gosite/categories/</loc>
   </url><url>
-    <loc>https://gooooooooodnight.github.io/gosite/tags/</loc>
+    <loc>http://localhost:1313/gosite/tags/</loc>
   </url>
 </urlset>
